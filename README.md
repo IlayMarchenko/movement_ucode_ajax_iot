@@ -23,7 +23,7 @@
 
 ## Example
 **Look at the launchpad in my hand and look at robohand. :open_mouth:**
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/IlayMarchenko/movement_ucode_ajax_iot/blob/master/materials/ezgif.com-video-to-gif.gif)
 
 ## How you could run it
 
